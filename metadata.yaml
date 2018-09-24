@@ -1,0 +1,26 @@
+_repo: Pyhiinvaeltaja-Kuvitelmia-Karjalasta_56533
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Railo, Eino
+    alias: Iisalo, Osmo
+    birthdate: 1884
+    deathdate: 1948
+    gutenberg_agent_id: '46473'
+    url: http://www.gutenberg.org/2009/agents/46473
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Railo
+description: ''
+gutenberg_issued: '2018-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56533'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Pyhiinvaeltaja: Kuvitelmia Karjalasta'
+url: http://www.gutenberg.org/ebooks/56533
